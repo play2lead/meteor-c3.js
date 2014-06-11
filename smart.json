@@ -1,0 +1,9 @@
+{
+  "name": "C3.js",
+  "description": "D3-based reusable chart library",
+  "homepage": "git",
+  "author": "Kyle Suss <kyle.suss@tackmobile.com>",
+  "version": "0.0.1",
+  "git": "git",
+  "packages": {}
+}
