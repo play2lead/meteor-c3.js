@@ -8,6 +8,6 @@ Uses C3 [v0.2.3](https://github.com/masayuki0812/c3/releases/tag/0.2.3)
 
 `npm install -g meteorite`
 
-`mrt add c3`
+`mrt add C3.js`
 
 *Dependencies: `D3`*
