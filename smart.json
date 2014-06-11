@@ -3,7 +3,7 @@
   "description": "D3-based reusable chart library",
   "homepage": "https://github.com/TackMobile/meteor-c3.js",
   "author": "Kyle Suss <kyle.suss@tackmobile.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/TackMobile/meteor-c3.js.git",
   "packages": {
     "d3": "3.4.1"
