@@ -4,6 +4,6 @@
   "homepage": "https://github.com/TackMobile/meteor-c3",
   "author": "Kyle Suss <kyle.suss@tackmobile.com>",
   "version": "0.0.1",
-  "git": "git@github.com:TackMobile/meteor-c3.git",
+  "git": "https://github.com/TackMobile/meteor-c3.git",
   "packages": {}
 }
