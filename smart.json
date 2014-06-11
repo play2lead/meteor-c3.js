@@ -1,5 +1,5 @@
 {
-  "name": "C3.js",
+  "name": "c3",
   "description": "D3-based reusable chart library",
   "homepage": "https://github.com/TackMobile/meteor-c3",
   "author": "Kyle Suss <kyle.suss@tackmobile.com>",
