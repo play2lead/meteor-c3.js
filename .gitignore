@@ -1,3 +1,4 @@
 test.html
 lib/d3.js
 packages
+.build*
