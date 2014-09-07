@@ -1,7 +1,7 @@
 Package.describe({
   name: 'peernohell:c3',
   summary: "A Meteor port for the C3 charting library based on D3. Clone of TackMobile/meteor-c3.js",
-  version: "0.9.0",
+  version: "1.0.0",
   git: "https://github.com/peernohell/meteor-c3.js.git"
 });
 
