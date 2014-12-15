@@ -13,11 +13,11 @@ This package includes the necessary assets (css/js) in your project. From there,
 
 to insert a graph. add a dom element in a template
 
-`<div class="chart"></div>`
+```<div class="chart"></div>```
 
 and in template rendered event create the chart and use autorun to get chart update dynammically
 
-`
+```javascript
 Template.chart.rendered = function () {
   Session.set('x', ['x', 30, 50, 75, 100, 120]);
   Session.set('data1', ['data1', 30, 200, 100, 400, 150]);
@@ -42,4 +42,4 @@ Template.chart.rendered = function () {
     ]});
   });
 }
-`
+```
