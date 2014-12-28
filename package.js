@@ -1,7 +1,7 @@
 Package.describe({
   name: 'peernohell:c3',
   summary: "C3 (0.4.8) charting library based on D3.",
-  version: "1.1.1",
+  version: "1.1.2",
   git: "https://github.com/peernohell/meteor-c3.js.git"
 });
 
