@@ -1,4 +1,4 @@
-# Meteor C3 (0.4.8)
+# Meteor C3 (0.4.10)
 
 A Meteor wrapper for the [C3.js](http://c3js.org/) charting library.
 
